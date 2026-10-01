@@ -12,7 +12,7 @@ public class Main {
         while (programaRodando) {
 
 
-            System.out.println("O que deseja fazer?");
+            System.out.println("O que deseja fazer ?");
             System.out.println("1 - Cadastrar produto");
             System.out.println("2 - Ver produtos cadastrados");
             System.out.println("3 - Consultar estoque");
